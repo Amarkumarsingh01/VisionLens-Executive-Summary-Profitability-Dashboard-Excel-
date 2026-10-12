@@ -1,0 +1,2 @@
+# VisionLens-Executive-Summary-Profitability-Dashboard-Excel-
+An interactive Microsoft Excel business intelligence dashboard designed to monitor revenue, profitability margins, channel distribution, and regional sales performance across European markets. Advanced Pivot Tables &amp; Pivot Charts - Custom Metric Formatting &amp; Layout Structuring - Excel Map Charts - Slicer Connections &amp; Interactive Filtering
